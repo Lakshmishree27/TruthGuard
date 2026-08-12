@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "question": "What does supervised learning require?",
+        "evidence": "Supervised learning requires labeled examples.",
+        "answer": "Supervised learning requires labeled examples.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 2,
+        "question": "What is reinforcement learning based on?",
+        "evidence": "Reinforcement learning uses rewards from an environment.",
+        "answer": "Reinforcement learning uses rewards from an environment.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 3,
+        "question": "What does encryption produce?",
+        "evidence": "Encryption converts plaintext into ciphertext.",
+        "answer": "Encryption converts plaintext into ciphertext.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 4,
+        "question": "What does DNS translate?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS translates domain names into IP addresses.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 5,
+        "question": "What is a stack?",
+        "evidence": "A stack follows the Last In, First Out principle.",
+        "answer": "A stack follows the Last In, First Out principle.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 6,
+        "question": "What does authentication verify?",
+        "evidence": "Authentication verifies the identity of a user.",
+        "answer": "Authentication verifies the identity of a user.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 7,
+        "question": "What is object detection?",
+        "evidence": "Object detection identifies objects and their locations in images.",
+        "answer": "Object detection identifies objects and their locations in images.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 8,
+        "question": "What is SQL used for?",
+        "evidence": "SQL is used to query relational databases.",
+        "answer": "SQL is used to query relational databases.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 9,
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursion occurs when a function calls itself.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 10,
+        "question": "What is cloud storage?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage stores data on remote servers.",
+        "label": "SUPPORTED"
+    },
+    {
+        "id": 11,
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled examples.",
+        "answer": "Supervised learning uses only unlabeled examples.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 12,
+        "question": "What does reinforcement learning use?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 13,
+        "question": "What does DNS translate?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS translates domain names into physical addresses.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 14,
+        "question": "What does encryption do?",
+        "evidence": "Encryption converts plaintext into ciphertext.",
+        "answer": "Encryption converts ciphertext into plaintext.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 15,
+        "question": "What does a stack follow?",
+        "evidence": "A stack follows Last In, First Out.",
+        "answer": "A stack follows First In, First Out.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 16,
+        "question": "What does authentication do?",
+        "evidence": "Authentication verifies user identity.",
+        "answer": "Authentication never verifies identity.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 17,
+        "question": "What does object detection identify?",
+        "evidence": "Object detection identifies objects and their locations.",
+        "answer": "Object detection does not identify objects.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 18,
+        "question": "What is SQL used for?",
+        "evidence": "SQL is used to query relational databases.",
+        "answer": "SQL cannot query relational databases.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 19,
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursion occurs when a function never calls itself.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 20,
+        "question": "Where does cloud storage store data?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage stores data only on the local keyboard.",
+        "label": "CONTRADICTED"
+    },
+    {
+        "id": 21,
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled examples.",
+        "answer": "Supervised learning always achieves 100% accuracy.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 22,
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards from an environment.",
+        "answer": "Reinforcement learning is always better than every other learning method.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 23,
+        "question": "What does encryption do?",
+        "evidence": "Encryption converts plaintext into ciphertext.",
+        "answer": "Encryption guarantees that no attacker can ever access data.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 24,
+        "question": "What does DNS do?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS always provides the fastest possible internet connection.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 25,
+        "question": "What is a stack?",
+        "evidence": "A stack follows Last In, First Out.",
+        "answer": "A stack is always the best data structure.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 26,
+        "question": "What is authentication?",
+        "evidence": "Authentication verifies identity.",
+        "answer": "Authentication completely prevents every cyberattack.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 27,
+        "question": "What is object detection?",
+        "evidence": "Object detection identifies objects and their locations.",
+        "answer": "Object detection always achieves 100% accuracy.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 28,
+        "question": "What is SQL?",
+        "evidence": "SQL is used to query relational databases.",
+        "answer": "SQL is always the fastest database technology.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 29,
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursion always produces faster programs.",
+        "label": "INSUFFICIENT"
+    },
+    {
+        "id": 30,
+        "question": "What is cloud storage?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage always provides unlimited free storage.",
+        "label": "INSUFFICIENT"
+    }
+]

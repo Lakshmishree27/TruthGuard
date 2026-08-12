@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "question": "What does DNS do?",
+    "evidence": "DNS translates domain names into IP addresses.",
+    "answer": "DNS translates domain names into IP addresses.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 2,
+    "question": "What is supervised learning?",
+    "evidence": "Supervised learning uses labeled training data.",
+    "answer": "Supervised learning uses labeled training data.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 3,
+    "question": "What does a stack follow?",
+    "evidence": "A stack follows the Last In, First Out principle.",
+    "answer": "A stack follows the Last In, First Out principle.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 4,
+    "question": "What does a queue follow?",
+    "evidence": "A queue follows the First In, First Out principle.",
+    "answer": "A queue follows the First In, First Out principle.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 5,
+    "question": "What does encryption do?",
+    "evidence": "Encryption converts plaintext into ciphertext.",
+    "answer": "Encryption converts plaintext into ciphertext.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 6,
+    "question": "What is the role of a firewall?",
+    "evidence": "A firewall filters network traffic according to security rules.",
+    "answer": "A firewall filters network traffic according to security rules.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 7,
+    "question": "What is an operating system?",
+    "evidence": "An operating system manages computer hardware and software resources.",
+    "answer": "An operating system manages computer hardware and software resources.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 8,
+    "question": "What is a database?",
+    "evidence": "A database stores and organizes structured information.",
+    "answer": "A database stores and organizes structured information.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 9,
+    "question": "What is SQL used for?",
+    "evidence": "SQL is used to query and manipulate relational databases.",
+    "answer": "SQL is used to query and manipulate relational databases.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 10,
+    "question": "What does HTTP provide?",
+    "evidence": "HTTP enables communication between web clients and servers.",
+    "answer": "HTTP enables communication between web clients and servers.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 11,
+    "question": "What is machine learning?",
+    "evidence": "Machine learning enables computers to learn patterns from data.",
+    "answer": "Machine learning enables computers to learn patterns from data.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 12,
+    "question": "What is reinforcement learning?",
+    "evidence": "Reinforcement learning involves an agent learning through rewards and penalties.",
+    "answer": "Reinforcement learning involves an agent learning through rewards and penalties.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 13,
+    "question": "What is a neural network?",
+    "evidence": "A neural network consists of interconnected computational units called neurons.",
+    "answer": "A neural network consists of interconnected computational units called neurons.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 14,
+    "question": "What is classification?",
+    "evidence": "Classification assigns data instances to predefined categories.",
+    "answer": "Classification assigns data instances to predefined categories.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 15,
+    "question": "What is regression?",
+    "evidence": "Regression predicts continuous numerical values.",
+    "answer": "Regression predicts continuous numerical values.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 16,
+    "question": "What does an IP address identify?",
+    "evidence": "An IP address identifies a device or network interface on a network.",
+    "answer": "An IP address identifies a device or network interface on a network.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 17,
+    "question": "What does DHCP provide?",
+    "evidence": "DHCP automatically assigns network configuration information to devices.",
+    "answer": "DHCP automatically assigns network configuration information to devices.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 18,
+    "question": "What does TCP provide?",
+    "evidence": "TCP provides reliable and ordered delivery of data.",
+    "answer": "TCP provides reliable and ordered delivery of data.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 19,
+    "question": "What does UDP provide?",
+    "evidence": "UDP provides connectionless transport communication.",
+    "answer": "UDP provides connectionless transport communication.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 20,
+    "question": "What is recursion?",
+    "evidence": "Recursion is a technique in which a function calls itself.",
+    "answer": "Recursion is a technique in which a function calls itself.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 21,
+    "question": "What is binary search?",
+    "evidence": "Binary search repeatedly divides a sorted search space into smaller parts.",
+    "answer": "Binary search repeatedly divides a sorted search space into smaller parts.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 22,
+    "question": "What is an array?",
+    "evidence": "An array stores elements in an indexed collection.",
+    "answer": "An array stores elements in an indexed collection.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 23,
+    "question": "What is a linked list?",
+    "evidence": "A linked list consists of nodes connected through links.",
+    "answer": "A linked list consists of nodes connected through links.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 24,
+    "question": "What is a binary tree?",
+    "evidence": "A binary tree is a tree in which each node has at most two children.",
+    "answer": "A binary tree is a tree in which each node has at most two children.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 25,
+    "question": "What is hashing?",
+    "evidence": "Hashing maps data to a fixed-size hash value using a hash function.",
+    "answer": "Hashing maps data to a fixed-size hash value using a hash function.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 26,
+    "question": "What is authentication?",
+    "evidence": "Authentication verifies the identity of a user or system.",
+    "answer": "Authentication verifies the identity of a user or system.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 27,
+    "question": "What is authorization?",
+    "evidence": "Authorization determines what resources an authenticated user can access.",
+    "answer": "Authorization determines what resources an authenticated user can access.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 28,
+    "question": "What is a digital signature?",
+    "evidence": "A digital signature helps verify the authenticity and integrity of digital data.",
+    "answer": "A digital signature helps verify the authenticity and integrity of digital data.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 29,
+    "question": "What is a compiler?",
+    "evidence": "A compiler translates source code into another form such as machine code.",
+    "answer": "A compiler translates source code into another form such as machine code.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 30,
+    "question": "What is an algorithm?",
+    "evidence": "An algorithm is a finite sequence of steps for solving a problem.",
+    "answer": "An algorithm is a finite sequence of steps for solving a problem.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 31,
+    "question": "What is cloud computing?",
+    "evidence": "Cloud computing provides computing resources over a network.",
+    "answer": "Cloud computing provides computing resources over a network.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 32,
+    "question": "What is virtualization?",
+    "evidence": "Virtualization allows virtual versions of computing resources to run on physical hardware.",
+    "answer": "Virtualization allows virtual versions of computing resources to run on physical hardware.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 33,
+    "question": "What is a process?",
+    "evidence": "A process is a program in execution.",
+    "answer": "A process is a program in execution.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 34,
+    "question": "What is a thread?",
+    "evidence": "A thread is a unit of execution within a process.",
+    "answer": "A thread is a unit of execution within a process.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 35,
+    "question": "What is normalization?",
+    "evidence": "Database normalization reduces redundancy and improves data organization.",
+    "answer": "Database normalization reduces redundancy and improves data organization.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 36,
+    "question": "What is an API?",
+    "evidence": "An API defines a way for software components to communicate.",
+    "answer": "An API defines a way for software components to communicate.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 37,
+    "question": "What is Git?",
+    "evidence": "Git is a distributed version control system.",
+    "answer": "Git is a distributed version control system.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 38,
+    "question": "What is encryption used for?",
+    "evidence": "Encryption is used to protect information from unauthorized access.",
+    "answer": "Encryption is used to protect information from unauthorized access.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 39,
+    "question": "What is a primary key?",
+    "evidence": "A primary key uniquely identifies a row in a relational table.",
+    "answer": "A primary key uniquely identifies a row in a relational table.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 40,
+    "question": "What is a foreign key?",
+    "evidence": "A foreign key references a key in another table.",
+    "answer": "A foreign key references a key in another table.",
+    "label": "SUPPORTED"
+  },
+  {
+    "id": 41,
+    "question": "What does DNS translate?",
+    "evidence": "DNS translates domain names into IP addresses.",
+    "answer": "DNS translates domain names into physical addresses.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 42,
+    "question": "What type of data does supervised learning use?",
+    "evidence": "Supervised learning uses labeled training data.",
+    "answer": "Supervised learning uses completely unlabeled training data.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 43,
+    "question": "What does a stack follow?",
+    "evidence": "A stack follows the Last In, First Out principle.",
+    "answer": "A stack follows the First In, First Out principle.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 44,
+    "question": "What does a queue follow?",
+    "evidence": "A queue follows the First In, First Out principle.",
+    "answer": "A queue follows the Last In, First Out principle.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 45,
+    "question": "What does encryption do?",
+    "evidence": "Encryption converts plaintext into ciphertext.",
+    "answer": "Encryption converts ciphertext into plaintext.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 46,
+    "question": "What does a firewall do?",
+    "evidence": "A firewall filters network traffic according to security rules.",
+    "answer": "A firewall allows all network traffic without filtering.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 47,
+    "question": "What does an operating system manage?",
+    "evidence": "An operating system manages computer hardware and software resources.",
+    "answer": "An operating system does not manage computer resources.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 48,
+    "question": "What does a database store?",
+    "evidence": "A database stores and organizes structured information.",
+    "answer": "A database does not store information.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 49,
+    "question": "What is SQL used for?",
+    "evidence": "SQL is used to query and manipulate relational databases.",
+    "answer": "SQL is used only to edit images.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 50,
+    "question": "What does HTTP provide?",
+    "evidence": "HTTP enables communication between web clients and servers.",
+    "answer": "HTTP prevents communication between web clients and servers.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 51,
+    "question": "What does machine learning learn from?",
+    "evidence": "Machine learning enables computers to learn patterns from data.",
+    "answer": "Machine learning cannot learn patterns from data.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 52,
+    "question": "What does reinforcement learning use?",
+    "evidence": "Reinforcement learning involves an agent learning through rewards and penalties.",
+    "answer": "Reinforcement learning learns only from labeled examples.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 53,
+    "question": "What is a neural network?",
+    "evidence": "A neural network consists of interconnected computational units called neurons.",
+    "answer": "A neural network contains no interconnected computational units.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 54,
+    "question": "What does classification do?",
+    "evidence": "Classification assigns data instances to predefined categories.",
+    "answer": "Classification never assigns data to categories.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 55,
+    "question": "What does regression predict?",
+    "evidence": "Regression predicts continuous numerical values.",
+    "answer": "Regression predicts only categorical labels.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 56,
+    "question": "What does an IP address identify?",
+    "evidence": "An IP address identifies a device or network interface on a network.",
+    "answer": "An IP address identifies nothing on a network.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 57,
+    "question": "What does DHCP do?",
+    "evidence": "DHCP automatically assigns network configuration information to devices.",
+    "answer": "DHCP never assigns network configuration information.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 58,
+    "question": "What does TCP provide?",
+    "evidence": "TCP provides reliable and ordered delivery of data.",
+    "answer": "TCP provides unreliable and unordered delivery of data.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 59,
+    "question": "What does UDP provide?",
+    "evidence": "UDP provides connectionless transport communication.",
+    "answer": "UDP always requires a connection before communication.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 60,
+    "question": "What is recursion?",
+    "evidence": "Recursion is a technique in which a function calls itself.",
+    "answer": "Recursion is a technique in which a function never calls itself.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 61,
+    "question": "What does binary search do?",
+    "evidence": "Binary search repeatedly divides a sorted search space into smaller parts.",
+    "answer": "Binary search never divides the search space.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 62,
+    "question": "What is an array?",
+    "evidence": "An array stores elements in an indexed collection.",
+    "answer": "An array does not use indexed elements.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 63,
+    "question": "What is a linked list?",
+    "evidence": "A linked list consists of nodes connected through links.",
+    "answer": "A linked list consists of completely independent nodes.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 64,
+    "question": "What is a binary tree?",
+    "evidence": "A binary tree is a tree in which each node has at most two children.",
+    "answer": "A binary tree allows every node to have exactly five children.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 65,
+    "question": "What is hashing?",
+    "evidence": "Hashing maps data to a fixed-size hash value using a hash function.",
+    "answer": "Hashing never maps data to a hash value.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 66,
+    "question": "What is authentication?",
+    "evidence": "Authentication verifies the identity of a user or system.",
+    "answer": "Authentication does not verify identity.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 67,
+    "question": "What is authorization?",
+    "evidence": "Authorization determines what resources an authenticated user can access.",
+    "answer": "Authorization determines what resources an unauthenticated user must access.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 68,
+    "question": "What does a digital signature verify?",
+    "evidence": "A digital signature helps verify the authenticity and integrity of digital data.",
+    "answer": "A digital signature proves that data has no authenticity or integrity.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 69,
+    "question": "What does a compiler do?",
+    "evidence": "A compiler translates source code into another form such as machine code.",
+    "answer": "A compiler never translates source code.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 70,
+    "question": "What is an algorithm?",
+    "evidence": "An algorithm is a finite sequence of steps for solving a problem.",
+    "answer": "An algorithm has no steps for solving problems.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 71,
+    "question": "What is cloud computing?",
+    "evidence": "Cloud computing provides computing resources over a network.",
+    "answer": "Cloud computing provides no computing resources.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 72,
+    "question": "What is virtualization?",
+    "evidence": "Virtualization allows virtual versions of computing resources to run on physical hardware.",
+    "answer": "Virtualization prevents virtual resources from running on hardware.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 73,
+    "question": "What is a process?",
+    "evidence": "A process is a program in execution.",
+    "answer": "A process is never a program in execution.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 74,
+    "question": "What is a thread?",
+    "evidence": "A thread is a unit of execution within a process.",
+    "answer": "A thread is not a unit of execution.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 75,
+    "question": "What does normalization do?",
+    "evidence": "Database normalization reduces redundancy and improves data organization.",
+    "answer": "Database normalization increases redundancy and reduces organization.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 76,
+    "question": "What is an API?",
+    "evidence": "An API defines a way for software components to communicate.",
+    "answer": "An API prevents software components from communicating.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 77,
+    "question": "What is Git?",
+    "evidence": "Git is a distributed version control system.",
+    "answer": "Git is not a version control system.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 78,
+    "question": "What does encryption protect?",
+    "evidence": "Encryption is used to protect information from unauthorized access.",
+    "answer": "Encryption exposes information to unauthorized access.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 79,
+    "question": "What is a primary key?",
+    "evidence": "A primary key uniquely identifies a row in a relational table.",
+    "answer": "A primary key cannot uniquely identify a row.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 80,
+    "question": "What is a foreign key?",
+    "evidence": "A foreign key references a key in another table.",
+    "answer": "A foreign key never references a key in another table.",
+    "label": "CONTRADICTED"
+  },
+  {
+    "id": 81,
+    "question": "What is supervised learning?",
+    "evidence": "Supervised learning uses labeled training data.",
+    "answer": "Supervised learning always achieves 99% accuracy.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 82,
+    "question": "What does DNS do?",
+    "evidence": "DNS translates domain names into IP addresses.",
+    "answer": "DNS always responds within one millisecond.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 83,
+    "question": "What does a stack follow?",
+    "evidence": "A stack follows the Last In, First Out principle.",
+    "answer": "A stack always performs operations in constant time.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 84,
+    "question": "What does a queue follow?",
+    "evidence": "A queue follows the First In, First Out principle.",
+    "answer": "A queue is always faster than a stack.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 85,
+    "question": "What does encryption do?",
+    "evidence": "Encryption converts plaintext into ciphertext.",
+    "answer": "Encryption always makes data impossible to break.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 86,
+    "question": "What does a firewall do?",
+    "evidence": "A firewall filters network traffic according to security rules.",
+    "answer": "A firewall guarantees complete network security.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 87,
+    "question": "What does an operating system manage?",
+    "evidence": "An operating system manages computer hardware and software resources.",
+    "answer": "An operating system always uses exactly 10% CPU.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 88,
+    "question": "What is a database?",
+    "evidence": "A database stores and organizes structured information.",
+    "answer": "A database must contain exactly one million records.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 89,
+    "question": "What is SQL?",
+    "evidence": "SQL is used to query and manipulate relational databases.",
+    "answer": "SQL always executes queries in less than one second.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 90,
+    "question": "What does HTTP provide?",
+    "evidence": "HTTP enables communication between web clients and servers.",
+    "answer": "HTTP is always faster than every other protocol.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 91,
+    "question": "What is machine learning?",
+    "evidence": "Machine learning enables computers to learn patterns from data.",
+    "answer": "Machine learning always achieves perfect accuracy.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 92,
+    "question": "What is reinforcement learning?",
+    "evidence": "Reinforcement learning involves an agent learning through rewards and penalties.",
+    "answer": "Reinforcement learning always performs better than supervised learning.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 93,
+    "question": "What is a neural network?",
+    "evidence": "A neural network consists of interconnected computational units called neurons.",
+    "answer": "A neural network always contains exactly 100 neurons.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 94,
+    "question": "What is classification?",
+    "evidence": "Classification assigns data instances to predefined categories.",
+    "answer": "Classification always produces 100% accurate predictions.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 95,
+    "question": "What is regression?",
+    "evidence": "Regression predicts continuous numerical values.",
+    "answer": "Regression always predicts values without error.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 96,
+    "question": "What does an IP address identify?",
+    "evidence": "An IP address identifies a device or network interface on a network.",
+    "answer": "An IP address always identifies the physical location of a device.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 97,
+    "question": "What does DHCP do?",
+    "evidence": "DHCP automatically assigns network configuration information to devices.",
+    "answer": "DHCP always assigns the same IP address to every device.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 98,
+    "question": "What does TCP provide?",
+    "evidence": "TCP provides reliable and ordered delivery of data.",
+    "answer": "TCP always provides the fastest possible network speed.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 99,
+    "question": "What does UDP provide?",
+    "evidence": "UDP provides connectionless transport communication.",
+    "answer": "UDP is always faster than TCP in every situation.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 100,
+    "question": "What is recursion?",
+    "evidence": "Recursion is a technique in which a function calls itself.",
+    "answer": "Recursion always uses less memory than iteration.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 101,
+    "question": "What is binary search?",
+    "evidence": "Binary search repeatedly divides a sorted search space into smaller parts.",
+    "answer": "Binary search always takes exactly one comparison.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 102,
+    "question": "What is an array?",
+    "evidence": "An array stores elements in an indexed collection.",
+    "answer": "An array always contains exactly 100 elements.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 103,
+    "question": "What is a linked list?",
+    "evidence": "A linked list consists of nodes connected through links.",
+    "answer": "A linked list always contains exactly 50 nodes.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 104,
+    "question": "What is a binary tree?",
+    "evidence": "A binary tree is a tree in which each node has at most two children.",
+    "answer": "A binary tree always has exactly 100 nodes.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 105,
+    "question": "What is hashing?",
+    "evidence": "Hashing maps data to a fixed-size hash value using a hash function.",
+    "answer": "Hashing always prevents every possible collision.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 106,
+    "question": "What is authentication?",
+    "evidence": "Authentication verifies the identity of a user or system.",
+    "answer": "Authentication always takes exactly one second.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 107,
+    "question": "What is authorization?",
+    "evidence": "Authorization determines what resources an authenticated user can access.",
+    "answer": "Authorization always grants access to every resource.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 108,
+    "question": "What is a digital signature?",
+    "evidence": "A digital signature helps verify the authenticity and integrity of digital data.",
+    "answer": "A digital signature always makes documents legally valid in every country.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 109,
+    "question": "What is a compiler?",
+    "evidence": "A compiler translates source code into another form such as machine code.",
+    "answer": "A compiler always produces the fastest possible program.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 110,
+    "question": "What is an algorithm?",
+    "evidence": "An algorithm is a finite sequence of steps for solving a problem.",
+    "answer": "An algorithm always solves every problem optimally.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 111,
+    "question": "What is cloud computing?",
+    "evidence": "Cloud computing provides computing resources over a network.",
+    "answer": "Cloud computing always costs less than local computing.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 112,
+    "question": "What is virtualization?",
+    "evidence": "Virtualization allows virtual versions of computing resources to run on physical hardware.",
+    "answer": "Virtualization always improves performance by exactly 50%.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 113,
+    "question": "What is a process?",
+    "evidence": "A process is a program in execution.",
+    "answer": "A process always uses exactly 1 GB of memory.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 114,
+    "question": "What is a thread?",
+    "evidence": "A thread is a unit of execution within a process.",
+    "answer": "A thread always runs faster than every process.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 115,
+    "question": "What is normalization?",
+    "evidence": "Database normalization reduces redundancy and improves data organization.",
+    "answer": "Normalization always makes every database query faster.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 116,
+    "question": "What is an API?",
+    "evidence": "An API defines a way for software components to communicate.",
+    "answer": "An API always guarantees secure communication.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 117,
+    "question": "What is Git?",
+    "evidence": "Git is a distributed version control system.",
+    "answer": "Git always prevents developers from losing files.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 118,
+    "question": "What is a primary key?",
+    "evidence": "A primary key uniquely identifies a row in a relational table.",
+    "answer": "A primary key always contains exactly 10 characters.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 119,
+    "question": "What is a foreign key?",
+    "evidence": "A foreign key references a key in another table.",
+    "answer": "A foreign key always references exactly one table.",
+    "label": "INSUFFICIENT"
+  },
+  {
+    "id": 120,
+    "question": "What is encryption?",
+    "evidence": "Encryption is used to protect information from unauthorized access.",
+    "answer": "Encryption always provides complete protection against every attack.",
+    "label": "INSUFFICIENT"
+  }
+]

@@ -1,0 +1,2102 @@
+[
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 261
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "Does reinforcement learning use rewards?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning never uses rewards.",
+        "label": "CONTRADICTED",
+        "id": 269
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning enables systems to learn patterns from data.",
+        "label": "SUPPORTED",
+        "id": 281
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning is always faster than reinforcement learning.",
+        "label": "INSUFFICIENT",
+        "id": 284
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 285
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning involves an agent interacting with an environment.",
+        "label": "SUPPORTED",
+        "id": 288
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 289
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 290
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled training examples.",
+        "label": "CONTRADICTED",
+        "id": 291
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning uses rewards and penalties.",
+        "answer": "Reinforcement learning always reaches perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 292
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "Does supervised learning use labeled data?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning does not use labeled training data.",
+        "label": "CONTRADICTED",
+        "id": 294
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always produces better results than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 295
+    },
+    {
+        "question": "Does machine learning learn from data?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning does not learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 296
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 298
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 300
+    }
+]

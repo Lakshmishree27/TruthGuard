@@ -1,0 +1,57 @@
+[
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data. Common supervised learning tasks include classification and regression.",
+        "expected_type": "SUPPORTED"
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "expected_type": "SUPPORTED"
+    },
+    {
+        "question": "What type of data does supervised learning require?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "expected_type": "SUPPORTED"
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "expected_type": "SUPPORTED"
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "expected_type": "SUPPORTED"
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "expected_type": "CONTRADICTED",
+        "expected_answer": "Supervised learning uses completely unlabeled training data."
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "expected_type": "CONTRADICTED",
+        "expected_answer": "Reinforcement learning learns only from labeled training examples."
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "expected_type": "INSUFFICIENT",
+        "expected_answer": "Supervised learning always achieves 99% accuracy."
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "expected_type": "INSUFFICIENT",
+        "expected_answer": "Reinforcement learning always produces better results than supervised learning."
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables computer systems to learn patterns from data and make predictions or decisions.",
+        "expected_type": "INSUFFICIENT",
+        "expected_answer": "Machine learning requires exactly one million training examples."
+    }
+]

@@ -1,0 +1,842 @@
+[
+    {
+        "question": "What does DNS do?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS translates domain names into IP addresses.",
+        "label": "SUPPORTED",
+        "id": 1
+    },
+    {
+        "question": "What does DNS do?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS always provides the fastest internet connection.",
+        "label": "INSUFFICIENT",
+        "id": 2
+    },
+    {
+        "question": "What is object detection?",
+        "evidence": "Object detection identifies objects and their locations.",
+        "answer": "Object detection always identifies every object with 100% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 3
+    },
+    {
+        "question": "What is multitasking?",
+        "evidence": "Multitasking manages multiple tasks concurrently.",
+        "answer": "Multitasking always improves performance by exactly 50%.",
+        "label": "INSUFFICIENT",
+        "id": 4
+    },
+    {
+        "question": "What is cloud computing?",
+        "evidence": "Cloud computing provides computing resources over a network.",
+        "answer": "Cloud computing is always cheaper than every local solution.",
+        "label": "INSUFFICIENT",
+        "id": 5
+    },
+    {
+        "question": "What is image segmentation?",
+        "evidence": "Image segmentation divides images into meaningful regions.",
+        "answer": "Image segmentation divides images into meaningful regions.",
+        "label": "SUPPORTED",
+        "id": 6
+    },
+    {
+        "question": "What is SaaS?",
+        "evidence": "SaaS provides software applications over the internet.",
+        "answer": "Every SaaS application is completely free.",
+        "label": "INSUFFICIENT",
+        "id": 7
+    },
+    {
+        "question": "What is a database?",
+        "evidence": "A database is an organized collection of data.",
+        "answer": "This database can store exactly one billion records.",
+        "label": "INSUFFICIENT",
+        "id": 8
+    },
+    {
+        "question": "What is image classification?",
+        "evidence": "Image classification assigns images to predefined categories.",
+        "answer": "Image classification always produces the correct category.",
+        "label": "INSUFFICIENT",
+        "id": 9
+    },
+    {
+        "question": "What are activation functions?",
+        "evidence": "Activation functions introduce non-linearity.",
+        "answer": "Activation functions always improve accuracy by exactly 20%.",
+        "label": "INSUFFICIENT",
+        "id": 10
+    },
+    {
+        "question": "What is a foreign key?",
+        "evidence": "A foreign key references a key in another table.",
+        "answer": "A foreign key never references another table.",
+        "label": "CONTRADICTED",
+        "id": 11
+    },
+    {
+        "question": "What is TCP?",
+        "evidence": "TCP is connection-oriented.",
+        "answer": "TCP is always connectionless.",
+        "label": "CONTRADICTED",
+        "id": 12
+    },
+    {
+        "question": "What is a primary key?",
+        "evidence": "A primary key uniquely identifies rows.",
+        "answer": "A primary key makes every query execute instantly.",
+        "label": "INSUFFICIENT",
+        "id": 13
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "evidence": "Sentiment analysis determines the emotional tone of text.",
+        "answer": "Sentiment analysis determines the emotional tone of text.",
+        "label": "SUPPORTED",
+        "id": 14
+    },
+    {
+        "question": "What is a primary key?",
+        "evidence": "A primary key uniquely identifies each row in a database table.",
+        "answer": "A primary key uniquely identifies each row in a table.",
+        "label": "SUPPORTED",
+        "id": 15
+    },
+    {
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursion requires a function to never call itself.",
+        "label": "CONTRADICTED",
+        "id": 16
+    },
+    {
+        "question": "What is machine learning?",
+        "evidence": "Machine learning enables systems to learn patterns from data.",
+        "answer": "Machine learning requires exactly one million training examples.",
+        "label": "INSUFFICIENT",
+        "id": 17
+    },
+    {
+        "question": "What is OCR?",
+        "evidence": "OCR converts image text into machine-readable text.",
+        "answer": "OCR always recognizes every character perfectly.",
+        "label": "INSUFFICIENT",
+        "id": 18
+    },
+    {
+        "question": "What is cloud computing?",
+        "evidence": "Cloud computing provides resources over a network.",
+        "answer": "Cloud computing provides resources without using a network.",
+        "label": "CONTRADICTED",
+        "id": 19
+    },
+    {
+        "question": "What is authentication?",
+        "evidence": "Authentication verifies identity.",
+        "answer": "Authentication never verifies identity.",
+        "label": "CONTRADICTED",
+        "id": 20
+    },
+    {
+        "question": "Is TCP connection-oriented?",
+        "evidence": "TCP is a connection-oriented transport protocol.",
+        "answer": "TCP is a connection-oriented protocol.",
+        "label": "SUPPORTED",
+        "id": 21
+    },
+    {
+        "question": "What is a queue?",
+        "evidence": "A queue follows First In, First Out.",
+        "answer": "A queue follows Last In, First Out.",
+        "label": "CONTRADICTED",
+        "id": 22
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "evidence": "Sentiment analysis determines emotional tone in text.",
+        "answer": "Sentiment analysis always correctly identifies every person's emotions.",
+        "label": "INSUFFICIENT",
+        "id": 23
+    },
+    {
+        "question": "What is an epoch?",
+        "evidence": "An epoch is one complete pass through training data.",
+        "answer": "Exactly 100 epochs are always required.",
+        "label": "INSUFFICIENT",
+        "id": 24
+    },
+    {
+        "question": "Why are activation functions used?",
+        "evidence": "Activation functions introduce non-linearity into neural networks.",
+        "answer": "Activation functions introduce non-linearity into neural networks.",
+        "label": "SUPPORTED",
+        "id": 25
+    },
+    {
+        "question": "What are common supervised learning tasks?",
+        "evidence": "Common supervised learning tasks include classification and regression.",
+        "answer": "Classification and regression are common supervised learning tasks.",
+        "label": "SUPPORTED",
+        "id": 26
+    },
+    {
+        "question": "What is image segmentation?",
+        "evidence": "Image segmentation divides images into meaningful regions.",
+        "answer": "Image segmentation never divides images into regions.",
+        "label": "CONTRADICTED",
+        "id": 27
+    },
+    {
+        "question": "What is cloud storage?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage stores data only on the user's keyboard.",
+        "label": "CONTRADICTED",
+        "id": 28
+    },
+    {
+        "question": "What is SaaS?",
+        "evidence": "SaaS provides software applications over the internet.",
+        "answer": "SaaS provides software applications over the internet.",
+        "label": "SUPPORTED",
+        "id": 29
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves 99% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 30
+    },
+    {
+        "question": "What is virtual memory?",
+        "evidence": "Virtual memory allows disk storage to extend physical memory.",
+        "answer": "Virtual memory allows disk storage to extend physical memory.",
+        "label": "SUPPORTED",
+        "id": 31
+    },
+    {
+        "question": "What is SaaS?",
+        "evidence": "SaaS provides software applications over the internet.",
+        "answer": "SaaS provides physical computer hardware.",
+        "label": "CONTRADICTED",
+        "id": 32
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning learns through rewards and penalties.",
+        "answer": "Reinforcement learning learns only from labeled examples.",
+        "label": "CONTRADICTED",
+        "id": 33
+    },
+    {
+        "question": "What is a deadlock?",
+        "evidence": "A deadlock occurs when processes wait indefinitely for resources.",
+        "answer": "A deadlock occurs when processes never wait for resources.",
+        "label": "CONTRADICTED",
+        "id": 34
+    },
+    {
+        "question": "Why are activation functions used?",
+        "evidence": "Activation functions introduce non-linearity.",
+        "answer": "Activation functions remove all non-linearity.",
+        "label": "CONTRADICTED",
+        "id": 35
+    },
+    {
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursion occurs when a function calls itself.",
+        "label": "SUPPORTED",
+        "id": 36
+    },
+    {
+        "question": "What is phishing?",
+        "evidence": "Phishing attempts to trick users into revealing sensitive information.",
+        "answer": "Phishing guarantees that users never reveal sensitive information.",
+        "label": "CONTRADICTED",
+        "id": 37
+    },
+    {
+        "question": "What is machine translation?",
+        "evidence": "Machine translation converts text between languages.",
+        "answer": "Machine translation converts text between languages.",
+        "label": "SUPPORTED",
+        "id": 38
+    },
+    {
+        "question": "What is a stack?",
+        "evidence": "A stack follows Last In, First Out.",
+        "answer": "A stack follows First In, First Out.",
+        "label": "CONTRADICTED",
+        "id": 39
+    },
+    {
+        "question": "What is a queue?",
+        "evidence": "A queue generally follows the First In, First Out principle.",
+        "answer": "A queue generally follows the First In, First Out principle.",
+        "label": "SUPPORTED",
+        "id": 40
+    },
+    {
+        "question": "What is binary search?",
+        "evidence": "Binary search divides a sorted search space into halves.",
+        "answer": "Binary search requires an unsorted search space.",
+        "label": "CONTRADICTED",
+        "id": 41
+    },
+    {
+        "question": "What is OCR?",
+        "evidence": "OCR converts image text into machine-readable text.",
+        "answer": "OCR converts machine-readable text into printed images.",
+        "label": "CONTRADICTED",
+        "id": 42
+    },
+    {
+        "question": "What is database normalization?",
+        "evidence": "Normalization reduces data redundancy.",
+        "answer": "Normalization always increases data redundancy.",
+        "label": "CONTRADICTED",
+        "id": 43
+    },
+    {
+        "question": "What is a deadlock?",
+        "evidence": "A deadlock occurs when processes wait indefinitely for resources held by one another.",
+        "answer": "A deadlock occurs when processes wait indefinitely for resources held by each other.",
+        "label": "SUPPORTED",
+        "id": 44
+    },
+    {
+        "question": "What is overfitting?",
+        "evidence": "Overfitting means good training performance but poor unseen-data performance.",
+        "answer": "Overfitting means poor training performance but perfect unseen-data performance.",
+        "label": "CONTRADICTED",
+        "id": 45
+    },
+    {
+        "question": "What is an epoch?",
+        "evidence": "An epoch is one complete pass through training data.",
+        "answer": "An epoch represents zero passes through training data.",
+        "label": "CONTRADICTED",
+        "id": 46
+    },
+    {
+        "question": "What is multitasking?",
+        "evidence": "Multitasking allows an operating system to manage multiple tasks concurrently.",
+        "answer": "Multitasking allows an operating system to manage multiple tasks concurrently.",
+        "label": "SUPPORTED",
+        "id": 47
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses completely unlabeled training data.",
+        "label": "CONTRADICTED",
+        "id": 48
+    },
+    {
+        "question": "What is tokenization?",
+        "evidence": "Tokenization breaks text into tokens.",
+        "answer": "Tokenization always improves every language model.",
+        "label": "INSUFFICIENT",
+        "id": 49
+    },
+    {
+        "question": "What is normalization?",
+        "evidence": "Normalization reduces data redundancy.",
+        "answer": "Normalization always makes every database operation faster.",
+        "label": "INSUFFICIENT",
+        "id": 50
+    },
+    {
+        "question": "What is cloud computing?",
+        "evidence": "Cloud computing provides computing resources over a network.",
+        "answer": "Cloud computing provides computing resources over a network.",
+        "label": "SUPPORTED",
+        "id": 51
+    },
+    {
+        "question": "What is an epoch?",
+        "evidence": "An epoch represents one complete pass through the training dataset.",
+        "answer": "An epoch is one complete pass through the training dataset.",
+        "label": "SUPPORTED",
+        "id": 52
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "evidence": "Sentiment analysis determines emotional tone in text.",
+        "answer": "Sentiment analysis determines the physical location of the author.",
+        "label": "CONTRADICTED",
+        "id": 53
+    },
+    {
+        "question": "What is a process?",
+        "evidence": "A process is a program in execution.",
+        "answer": "Every process always uses exactly 500 MB of memory.",
+        "label": "INSUFFICIENT",
+        "id": 54
+    },
+    {
+        "question": "What is database normalization?",
+        "evidence": "Normalization reduces unnecessary data redundancy.",
+        "answer": "Database normalization reduces unnecessary data redundancy.",
+        "label": "SUPPORTED",
+        "id": 55
+    },
+    {
+        "question": "What is virtual memory?",
+        "evidence": "Virtual memory can use disk storage as an extension of physical memory.",
+        "answer": "Virtual memory eliminates the need for physical memory.",
+        "label": "CONTRADICTED",
+        "id": 56
+    },
+    {
+        "question": "What is image segmentation?",
+        "evidence": "Image segmentation divides images into meaningful regions.",
+        "answer": "Image segmentation always produces perfect boundaries.",
+        "label": "INSUFFICIENT",
+        "id": 57
+    },
+    {
+        "question": "Is TCP connection-oriented?",
+        "evidence": "TCP is a connection-oriented transport protocol.",
+        "answer": "TCP is a connectionless transport protocol.",
+        "label": "CONTRADICTED",
+        "id": 58
+    },
+    {
+        "question": "What does reinforcement learning learn from?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.",
+        "answer": "Reinforcement learning learns through rewards and penalties.",
+        "label": "SUPPORTED",
+        "id": 59
+    },
+    {
+        "question": "What is a queue?",
+        "evidence": "A queue follows First In, First Out.",
+        "answer": "A queue always provides the best possible performance.",
+        "label": "INSUFFICIENT",
+        "id": 60
+    },
+    {
+        "question": "What is SQL?",
+        "evidence": "SQL is used to query relational databases.",
+        "answer": "SQL cannot query relational databases.",
+        "label": "CONTRADICTED",
+        "id": 61
+    },
+    {
+        "question": "What is multitasking?",
+        "evidence": "Multitasking manages multiple tasks concurrently.",
+        "answer": "Multitasking manages only one task at a time.",
+        "label": "CONTRADICTED",
+        "id": 62
+    },
+    {
+        "question": "What is binary search?",
+        "evidence": "Binary search repeatedly divides a sorted search space into halves.",
+        "answer": "Binary search divides a sorted search space into halves.",
+        "label": "SUPPORTED",
+        "id": 63
+    },
+    {
+        "question": "What is a primary key?",
+        "evidence": "A primary key uniquely identifies each row.",
+        "answer": "A primary key allows duplicate identifiers.",
+        "label": "CONTRADICTED",
+        "id": 64
+    },
+    {
+        "question": "What is a stack?",
+        "evidence": "A stack follows the Last In, First Out principle.",
+        "answer": "A stack follows the Last In, First Out principle.",
+        "label": "SUPPORTED",
+        "id": 65
+    },
+    {
+        "question": "What does SSH provide?",
+        "evidence": "SSH provides secure remote login and command execution.",
+        "answer": "SSH provides secure remote access.",
+        "label": "SUPPORTED",
+        "id": 66
+    },
+    {
+        "question": "What is HTTP?",
+        "evidence": "HTTP stands for Hypertext Transfer Protocol.",
+        "answer": "HTTP stands for Hypertext Transfer Process.",
+        "label": "CONTRADICTED",
+        "id": 67
+    },
+    {
+        "question": "What is authentication?",
+        "evidence": "Authentication verifies the identity of a user or system.",
+        "answer": "Authentication verifies the identity of a user or system.",
+        "label": "SUPPORTED",
+        "id": 68
+    },
+    {
+        "question": "What is machine translation?",
+        "evidence": "Machine translation converts text between languages.",
+        "answer": "Machine translation prevents translation between languages.",
+        "label": "CONTRADICTED",
+        "id": 69
+    },
+    {
+        "question": "What is a convolutional neural network used for?",
+        "evidence": "Convolutional neural networks are commonly used for image processing.",
+        "answer": "Convolutional neural networks are commonly used for image processing.",
+        "label": "SUPPORTED",
+        "id": 70
+    },
+    {
+        "question": "What is tokenization?",
+        "evidence": "Tokenization breaks text into tokens.",
+        "answer": "Tokenization breaks text into tokens.",
+        "label": "SUPPORTED",
+        "id": 71
+    },
+    {
+        "question": "What does encryption do?",
+        "evidence": "Encryption transforms readable information into ciphertext.",
+        "answer": "Encryption transforms ciphertext into readable information.",
+        "label": "CONTRADICTED",
+        "id": 72
+    },
+    {
+        "question": "What is hashing?",
+        "evidence": "A hash function produces a fixed-length value.",
+        "answer": "Hashing always produces variable-length output.",
+        "label": "CONTRADICTED",
+        "id": 73
+    },
+    {
+        "question": "What is phishing?",
+        "evidence": "Phishing attempts to trick users into revealing sensitive information.",
+        "answer": "Phishing attempts to trick users into revealing sensitive information.",
+        "label": "SUPPORTED",
+        "id": 74
+    },
+    {
+        "question": "What is a process?",
+        "evidence": "A process is a program in execution.",
+        "answer": "A process is always a file stored on disk.",
+        "label": "CONTRADICTED",
+        "id": 75
+    },
+    {
+        "question": "What is binary search?",
+        "evidence": "Binary search divides a sorted search space into halves.",
+        "answer": "Binary search is always the fastest algorithm for every search.",
+        "label": "INSUFFICIENT",
+        "id": 76
+    },
+    {
+        "question": "What is phishing?",
+        "evidence": "Phishing attempts to trick users into revealing sensitive information.",
+        "answer": "Phishing attacks always succeed.",
+        "label": "INSUFFICIENT",
+        "id": 77
+    },
+    {
+        "question": "What is supervised learning?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning always achieves perfect accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 78
+    },
+    {
+        "question": "What is machine translation?",
+        "evidence": "Machine translation converts text between languages.",
+        "answer": "Machine translation always produces human-level translations.",
+        "label": "INSUFFICIENT",
+        "id": 79
+    },
+    {
+        "question": "What is a foreign key?",
+        "evidence": "A foreign key references a key in another table.",
+        "answer": "A foreign key references a key in another table.",
+        "label": "SUPPORTED",
+        "id": 80
+    },
+    {
+        "question": "What is encryption?",
+        "evidence": "Encryption transforms readable information into ciphertext.",
+        "answer": "Encryption guarantees that no attacker can ever access information.",
+        "label": "INSUFFICIENT",
+        "id": 81
+    },
+    {
+        "question": "What does DNS do?",
+        "evidence": "DNS translates domain names into IP addresses.",
+        "answer": "DNS translates IP addresses into domain names.",
+        "label": "CONTRADICTED",
+        "id": 82
+    },
+    {
+        "question": "What is recursion?",
+        "evidence": "Recursion occurs when a function calls itself.",
+        "answer": "Recursive programs always execute faster than iterative programs.",
+        "label": "INSUFFICIENT",
+        "id": 83
+    },
+    {
+        "question": "What is a process?",
+        "evidence": "A process is a program in execution.",
+        "answer": "A process is a program in execution.",
+        "label": "SUPPORTED",
+        "id": 84
+    },
+    {
+        "question": "What type of data does supervised learning use?",
+        "evidence": "Supervised learning uses labeled training data.",
+        "answer": "Supervised learning uses labeled training data.",
+        "label": "SUPPORTED",
+        "id": 85
+    },
+    {
+        "question": "What is HTTP?",
+        "evidence": "HTTP stands for Hypertext Transfer Protocol.",
+        "answer": "HTTP always provides the fastest communication.",
+        "label": "INSUFFICIENT",
+        "id": 86
+    },
+    {
+        "question": "What is overfitting?",
+        "evidence": "Overfitting occurs when a model performs well on training data but poorly on unseen data.",
+        "answer": "Overfitting always causes exactly 50% accuracy.",
+        "label": "INSUFFICIENT",
+        "id": 87
+    },
+    {
+        "question": "What is tokenization?",
+        "evidence": "Tokenization breaks text into tokens.",
+        "answer": "Tokenization combines all text into one indivisible unit.",
+        "label": "CONTRADICTED",
+        "id": 88
+    },
+    {
+        "question": "What is SQL?",
+        "evidence": "SQL is used to query relational databases.",
+        "answer": "SQL is always the fastest database language.",
+        "label": "INSUFFICIENT",
+        "id": 89
+    },
+    {
+        "question": "What is object detection?",
+        "evidence": "Object detection identifies objects and their locations.",
+        "answer": "Object detection only changes image brightness.",
+        "label": "CONTRADICTED",
+        "id": 90
+    },
+    {
+        "question": "What is a CNN?",
+        "evidence": "CNNs are commonly used for image processing.",
+        "answer": "Every CNN always achieves perfect image recognition.",
+        "label": "INSUFFICIENT",
+        "id": 91
+    },
+    {
+        "question": "What is an operating system?",
+        "evidence": "An operating system manages hardware and software resources.",
+        "answer": "This operating system is the fastest ever created.",
+        "label": "INSUFFICIENT",
+        "id": 92
+    },
+    {
+        "question": "What is TCP?",
+        "evidence": "TCP is a connection-oriented transport protocol.",
+        "answer": "TCP is always faster than every other protocol.",
+        "label": "INSUFFICIENT",
+        "id": 93
+    },
+    {
+        "question": "What is virtual memory?",
+        "evidence": "Virtual memory can use disk storage as an extension of physical memory.",
+        "answer": "Virtual memory always makes every computer twice as fast.",
+        "label": "INSUFFICIENT",
+        "id": 94
+    },
+    {
+        "question": "What is virtualization?",
+        "evidence": "Virtualization allows multiple virtual environments to run on physical hardware.",
+        "answer": "Virtualization allows multiple virtual environments to run on physical hardware.",
+        "label": "SUPPORTED",
+        "id": 95
+    },
+    {
+        "question": "What is text classification?",
+        "evidence": "Text classification assigns documents to categories.",
+        "answer": "Text classification never assigns documents to categories.",
+        "label": "CONTRADICTED",
+        "id": 96
+    },
+    {
+        "question": "What is a stack?",
+        "evidence": "A stack follows Last In, First Out.",
+        "answer": "A stack is always the best data structure.",
+        "label": "INSUFFICIENT",
+        "id": 97
+    },
+    {
+        "question": "What is a neural network?",
+        "evidence": "Neural networks learn patterns from data.",
+        "answer": "Neural networks cannot learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 98
+    },
+    {
+        "question": "What are neural networks?",
+        "evidence": "Neural networks can learn complex patterns from data.",
+        "answer": "Neural networks cannot learn patterns from data.",
+        "label": "CONTRADICTED",
+        "id": 99
+    },
+    {
+        "question": "What is object detection?",
+        "evidence": "Object detection identifies objects and their locations in images.",
+        "answer": "Object detection identifies objects and their locations.",
+        "label": "SUPPORTED",
+        "id": 100
+    },
+    {
+        "question": "What is cloud storage?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage stores data on remote servers.",
+        "label": "SUPPORTED",
+        "id": 101
+    },
+    {
+        "question": "What are neural networks?",
+        "evidence": "Neural networks can learn complex patterns from data.",
+        "answer": "Neural networks always outperform every traditional algorithm.",
+        "label": "INSUFFICIENT",
+        "id": 102
+    },
+    {
+        "question": "What is cloud storage?",
+        "evidence": "Cloud storage stores data on remote servers.",
+        "answer": "Cloud storage always provides unlimited storage for free.",
+        "label": "INSUFFICIENT",
+        "id": 103
+    },
+    {
+        "question": "What are neural networks used for?",
+        "evidence": "Neural networks can learn complex patterns from data.",
+        "answer": "Neural networks are used to learn complex patterns from data.",
+        "label": "SUPPORTED",
+        "id": 104
+    },
+    {
+        "question": "What is image classification?",
+        "evidence": "Image classification assigns images to predefined categories.",
+        "answer": "Image classification never assigns images to categories.",
+        "label": "CONTRADICTED",
+        "id": 105
+    },
+    {
+        "question": "What does SSH provide?",
+        "evidence": "SSH provides secure remote login.",
+        "answer": "SSH provides insecure remote access.",
+        "label": "CONTRADICTED",
+        "id": 106
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "evidence": "HTTP stands for Hypertext Transfer Protocol.",
+        "answer": "HTTP stands for Hypertext Transfer Protocol.",
+        "label": "SUPPORTED",
+        "id": 107
+    },
+    {
+        "question": "What is virtualization?",
+        "evidence": "Virtualization allows multiple virtual environments on physical hardware.",
+        "answer": "Virtualization allows only one virtual environment.",
+        "label": "CONTRADICTED",
+        "id": 108
+    },
+    {
+        "question": "What is authentication?",
+        "evidence": "Authentication verifies identity.",
+        "answer": "Authentication always prevents every unauthorized access attempt.",
+        "label": "INSUFFICIENT",
+        "id": 109
+    },
+    {
+        "question": "What is hashing?",
+        "evidence": "A hash function produces a fixed-length value.",
+        "answer": "Hashing is always completely impossible to reverse.",
+        "label": "INSUFFICIENT",
+        "id": 110
+    },
+    {
+        "question": "What does encryption do?",
+        "evidence": "Encryption transforms readable information into ciphertext.",
+        "answer": "Encryption transforms readable information into ciphertext.",
+        "label": "SUPPORTED",
+        "id": 111
+    },
+    {
+        "question": "What is SSH?",
+        "evidence": "SSH provides secure remote login.",
+        "answer": "SSH guarantees every remote connection is completely secure.",
+        "label": "INSUFFICIENT",
+        "id": 112
+    },
+    {
+        "question": "What is SQL used for?",
+        "evidence": "SQL is used to manage and query relational databases.",
+        "answer": "SQL is used to manage and query relational databases.",
+        "label": "SUPPORTED",
+        "id": 113
+    },
+    {
+        "question": "What is image classification?",
+        "evidence": "Image classification assigns images to predefined categories.",
+        "answer": "Image classification assigns images to predefined categories.",
+        "label": "SUPPORTED",
+        "id": 114
+    },
+    {
+        "question": "What is OCR?",
+        "evidence": "OCR converts text in images into machine-readable text.",
+        "answer": "OCR converts text in images into machine-readable text.",
+        "label": "SUPPORTED",
+        "id": 115
+    },
+    {
+        "question": "What is text classification?",
+        "evidence": "Text classification assigns documents to predefined categories.",
+        "answer": "Text classification assigns documents to predefined categories.",
+        "label": "SUPPORTED",
+        "id": 116
+    },
+    {
+        "question": "What is virtualization?",
+        "evidence": "Virtualization allows multiple virtual environments on physical hardware.",
+        "answer": "Virtualization always doubles hardware performance.",
+        "label": "INSUFFICIENT",
+        "id": 117
+    },
+    {
+        "question": "What is overfitting?",
+        "evidence": "Overfitting occurs when a model performs very well on training data but poorly on unseen data.",
+        "answer": "Overfitting occurs when a model performs well on training data but poorly on unseen data.",
+        "label": "SUPPORTED",
+        "id": 118
+    },
+    {
+        "question": "What is hashing?",
+        "evidence": "A cryptographic hash function maps input data to a fixed-length hash value.",
+        "answer": "Hashing maps input data to a fixed-length hash value.",
+        "label": "SUPPORTED",
+        "id": 119
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "evidence": "Reinforcement learning involves an agent interacting with an environment.",
+        "answer": "Reinforcement learning always performs better than supervised learning.",
+        "label": "INSUFFICIENT",
+        "id": 120
+    }
+]

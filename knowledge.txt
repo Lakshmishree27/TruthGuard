@@ -1,0 +1,15 @@
+Machine Learning
+
+Machine learning is a subfield of artificial intelligence that enables computer systems to learn patterns from data and make predictions or decisions without being explicitly programmed for every task.
+
+Supervised learning uses labeled training data. Common supervised learning tasks include classification and regression.
+
+Unsupervised learning works with unlabeled data and can be used to discover patterns or groups. Clustering is a common unsupervised learning technique.
+
+Reinforcement learning involves an agent interacting with an environment and learning through rewards and penalties.
+
+Deep learning is a subset of machine learning that uses multi-layer neural networks to learn representations from data.
+
+Natural Language Processing, commonly called NLP, focuses on enabling computers to process, understand, and generate human language.
+
+Computer vision focuses on enabling computers to interpret information from images and videos.
